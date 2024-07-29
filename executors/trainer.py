@@ -2,7 +2,6 @@ import os
 import random
 import sys
 import numpy as np
-import evaluate
 
 import torch
 from torch import nn
